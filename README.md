@@ -1,6 +1,6 @@
 # Prototype3 - Isle of Inlay
 
-For my third prototype, I wanted to go a little deeper into the work I did for Snowdrift - this one is set on a more definable location, with less emphasis on location and more on dialogue. I used a series of assets and dialogue systems to try to create a world where the one and only gamified interaction is conversation.
+For my third prototype, I wanted to go deeper into the ideas I touched on with the work I did for Snowdrift - this one is set on a more definable location, with less emphasis on location and more on dialogue. I used a series of assets and dialogue systems to try to create a world where the one and only gamified interaction is conversation.
 
 
 
