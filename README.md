@@ -6,7 +6,7 @@ For my third prototype, I wanted to go a little deeper into the work I did for S
 
 For the prototype, I wanted to engage the player in a world where they are not wanted, and something strange is afoot. My testing questions mainly concern themselves with conversation and dialogue options, hence:
 
-#### What questions do players care most about? Where is the line between frustration and deliberate vagueness in game narrative? What is the "Why can't I ask X" question, and when and how does it come up?
+#### What questions do players care most about? How ready is the player to form their own conclusions, and in a mystery setting, how proactive are they in looking for answers? What is the "Why can't I ask X" question, and when and how does it come up?
 
 ### 
 
