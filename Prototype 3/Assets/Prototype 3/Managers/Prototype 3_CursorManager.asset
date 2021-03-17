@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: Prototype 3_CursorManager
   m_EditorClassIdentifier: 
   cursorRendering: 0
-  cursorDisplay: 0
+  cursorDisplay: 2
   allowMainCursor: 1
   lockSystemCursor: 1
   keepCursorWithinScreen: 1
-  confineSystemCursor: 0
+  confineSystemCursor: 1
   allowWalkCursor: 0
   addWalkPrefix: 0
   walkPrefix:
@@ -150,11 +150,14 @@ MonoBehaviour:
     label: Look at
     lineID: -1
     id: 2
-  unhandledCursorInteractions: []
+  unhandledCursorInteractions:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   passUnhandledHotspotAsParameter: 0
   onlyShowCursorLabelOverHotspots: 0
   allowCursorCyclingWhenPaused: 0
   lookUseCursorAction: 0
   lookCursor_ID: 2
   hideCursorWhenDraggingMoveables: 1
-  forceCursorInEditor: 1
+  forceCursorInEditor: 0
